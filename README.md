@@ -9,3 +9,4 @@
 [Blockchain Explorer](https://www.blockchain.com/explorer), a nice explorer  
 [Bitcoin Hashrate Distribution](https://www.blockchain.com/en/pools), explore the hashrate and mining pools  
 [Bitnodes](https://bitnodes.earn.com), Bitcoin network explorer  
+[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook), Mastering Bitcoin
